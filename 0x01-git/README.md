@@ -1,0 +1,9 @@
+0x01-git
+
+c:	c_is_fun.c
+
+js:	main.js
+	index.js
+
+bash:	alx
+	school
