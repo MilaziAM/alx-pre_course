@@ -1,6 +1,6 @@
 0x01-git
 
-c:	c_is_fun.c
+c:	c is fun.c
 
 js:	main.js
 	index.js
